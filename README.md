@@ -4,6 +4,7 @@
 
 * Pick team roles
 * Read up on broker options RabbitMQ, Redis, AmazonSQS
+  * https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#choosing-a-broker  
 * Set up environment
   * Install python
   * Install celery
