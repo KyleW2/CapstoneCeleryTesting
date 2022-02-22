@@ -1,6 +1,6 @@
 # CapstonePython3Conversion
 
-#### TODO: Week 1 ####
+#### TODO: ####
 
 - [ ] Pick team roles
 - [x] Read up on broker options RabbitMQ, Redis, AmazonSQS
@@ -16,3 +16,9 @@
   * ~~Start unit tests~~
   * ~~Set up github actions~~
   * Test celery
+
+#### REQUIREMENTS: ####
+  * Celery
+  * RabbitMQ
+  * PyTest
+  * PyTest-Celery
